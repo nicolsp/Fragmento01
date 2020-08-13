@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
+        
     }
         private void showFragment() {
             //generamos instancia del fragmento gracias al factorymetodo//
